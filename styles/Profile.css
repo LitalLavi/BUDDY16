@@ -213,8 +213,9 @@ font-family:Assistant-SemiBold;
 #aboutRight {
     float: left;
     text-align: right;
-    margin-top: -34%;
+    margin-top: -38%;
     margin-left: 12%;
+    padding: 2%;
 }
 
 #aboutLogo {
@@ -223,8 +224,9 @@ font-family:Assistant-SemiBold;
 #coaop {
     float: left;
     text-align: right;
-    margin-left: 13%;
-    margin-top: -20%;
+    margin-left: 12%;
+    margin-top: -23%;
+    padding: 2%;
 }
 
 .w3-container {
